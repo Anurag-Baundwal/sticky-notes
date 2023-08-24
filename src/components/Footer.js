@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer() {
-    const year = new Date().getFullYear();
+    // const year = new Date().getFullYear();   // for copyright year
     return (
         <footer class="bg-neutral-200 text-center text-white dark:bg-neutral-600">
             <div class="container pt-4">
