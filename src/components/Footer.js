@@ -6,7 +6,6 @@ function Footer() {
         <footer class="bg-neutral-200 text-center text-white dark:bg-neutral-600">
             <div class="container pt-4">
                 <div class="mb-4 flex justify-center w-full">
-
                     <a href="#!" class="text-neutral-800 dark:text-neutral-200">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"

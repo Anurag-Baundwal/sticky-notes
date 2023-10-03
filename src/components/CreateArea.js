@@ -1,3 +1,5 @@
+// Note creation area (or form)
+
 import React, { useState } from "react";
 
 function CreateArea(props) {
