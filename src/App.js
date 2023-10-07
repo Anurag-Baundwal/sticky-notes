@@ -39,7 +39,7 @@ function App() {
   const updateNote = async (id, newTitle, newContent) => {
     const updatedNote = { title: newTitle, content: newContent };
     try {
-      const response = await api.put(`/notes/${id}`, updatedNote);
+      // const response = await api.put(`/notes/${id}`, updatedNote);
       // Manually update the state
       setNotes(prevNotes => {
         return prevNotes.map((note) => {
