@@ -53,6 +53,7 @@ footer {
 .note h1 {
   font-size: 1.1em;
   margin-bottom: 6px;
+  font-weight: bold;
 }
 
 .note p {
