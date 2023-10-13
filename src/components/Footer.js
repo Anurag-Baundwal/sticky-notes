@@ -12,7 +12,7 @@ function Footer() {
 						<a href="https://github.com/Anurag-Baundwal/sticky-notes" class="text-neutral-800 dark:text-neutral-200">
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
-								class="h-8 w-8"
+								class="h-6 w-6"
 								fill="currentColor"
 								viewBox="0 0 24 24">
 								<path
